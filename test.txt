@@ -1,3 +1,4 @@
 test auto how to work
 merge test
 it is on master
+add conflict
