@@ -1,2 +1,4 @@
 test auto how to work
 merge test
+
+add conflict
